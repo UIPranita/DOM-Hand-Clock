@@ -1,3 +1,4 @@
+![](Clock.gif)
 # DOM-Hand-Clock 🕰️
 
 The **Dom Hand Clock** is a simple web-based clock that displays the current time using animated hands. It's built using HTML, CSS, and JavaScript.
